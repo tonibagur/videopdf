@@ -1,0 +1,13 @@
+.annotationLayer > a {
+    display: block;
+    position: absolute;
+}
+.annotationLayer > a:hover {
+    opacity: 0.2;
+    background: #ddd;
+    box-shadow: 0px 2px 10px #ddd;
+}
+
+a {
+	height: 25px !important;
+}
